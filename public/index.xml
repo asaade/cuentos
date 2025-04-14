@@ -4,10 +4,10 @@
     <title>Cuentos y opiniones</title>
     <link>https://www.saade.me/</link>
     <description>Recent content on Cuentos y opiniones</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.146.3</generator>
     <language>en</language>
     <copyright>asaade</copyright>
-    <lastBuildDate>Sat, 12 Apr 2025 18:03:25 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 13:58:34 -0600</lastBuildDate>
     <atom:link href="https://www.saade.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Hermandad</title>
@@ -104,7 +104,7 @@
       <guid>https://www.saade.me/posts/el_camino_hacia_la_luz/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;«Cuando consideramos el ser y la sustancia de ese universo en el que estamos inmutablemente situados, descubrimos que ni nosotros mismos ni ninguna sustancia sufren la muerte. Pues nada se disminuye en su sustancia, sino que todas las cosas, vagando por el espacio infinito, experimentan un cambio de aspecto».&lt;/p&gt;
-&lt;p&gt;Giordano Bruno, &amp;ldquo;Del infinito: el universo y los mundos&amp;rdquo;/.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Giordano Bruno, &amp;ldquo;Del infinito: el universo y los mundos&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Vísperas del 17 de febrero de 1600. Cárcel del Santo Oficio, Roma.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <link>https://www.saade.me/posts/codependencia/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 -0600</pubDate>
       <guid>https://www.saade.me/posts/codependencia/</guid>
-      <description>&lt;p&gt;Tres pequeños ojos brillaron en la oscuridad; el cerebro electrónico probaba una nueva secuencia, esperando que el baile de luces atrajera la atención de su amada. Sabía que no debía hacerlo, que eso era continuar con un ciclo destructivo que a nadie hacía bien, pero para él no podía ser de otra forma. Disfrutaba cuando ella se acercaba a encontrar placer que él le ofrecía: era una adicta. Ver su cara iluminarse cuando se dejaba llevar por sus instintos más básicos, era lo que le daba a él su verdadero sentido. Lo hacía sentir vivo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tres pequeños ojos brillaron en la oscuridad; el cerebro electrónico probaba una nueva secuencia, esperando que el baile de luces atrajera la atención de su amada. Sabía que no debía hacerlo, que eso era continuar con un ciclo destructivo que a nadie hacía bien, pero para él no podía ser de otra forma. Disfrutaba cuando ella se acercaba a encontrar placer que él le ofrecía: era una adicta. Ver su cara iluminarse cuando se dejaba llevar por sus instintos más básicos era lo que le daba a él su verdadero sentido. Lo hacía sentir vivo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conexus</title>
@@ -138,13 +138,6 @@
       <description>&lt;p&gt;En el mundo de Silvia, el amor era una ecuación resuelta antes de nacer. Todos los aspectos de la vida sentimental estaban optimizados por Conexus, el sistema encargado de gestionar las relaciones humanas. Las emociones se cuantificaban y la compatibilidad se determinaba con el rigor de una fórmula desde siglos atrás para garantizar la afinidad perfecta.&lt;/p&gt;
 &lt;p&gt;Eso cambió la primera vez que escuchó la voz.&lt;/p&gt;
 &lt;p&gt;En el silencio de su pequeño departamento, Silvia hojeaba el resumen diario de sus interacciones personales, mientras la pantalla cambiaba automáticamente de sección sin que ella tuviera que solicitarlo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Al final de la cuerda</title>
-      <link>https://www.saade.me/posts/al_final_de_la_cuerda/</link>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 -0600</pubDate>
-      <guid>https://www.saade.me/posts/al_final_de_la_cuerda/</guid>
-      <description>&lt;p&gt;Un rayo de luz se abre paso entre los bordes de las gruesas cortinas, resbala hacia la alfombra con el brillo cansado del sol del atardecer y deja ver los detalles de un elegante tapete persa, de esos que ahora solo se ven raramente, como vestigios de tiempos más civilizados. Las líneas de tejidos dorado siguen un trazo alucinante que se interrumpe aquí y allá por las patas estilizadas de unos muebles de caoba en un estilo con un nombre inglés que pocos recuerdan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El partido del siglo</title>
@@ -385,7 +378,7 @@ que el mundo comprendió y el día amaneció en paz.&lt;br /&gt;
       <link>https://www.saade.me/posts/emergencia_espacial/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 -0600</pubDate>
       <guid>https://www.saade.me/posts/emergencia_espacial/</guid>
-      <description>&lt;p&gt;¡A todos los pasajeros, su atención, por favor! Este es un mensaje del sistema automatizado de emergencia. Este no es un simulacro. Todos los pasajeros deberán evacuar inmediatamente. ¡Atención, atención! La nave se encuentra en ruta de colisión con un cuerpo espacial no identificado de tipo M. El tiempo estimado de contacto es de treinta minutos. Prepárense para abandonar la nave. Por su seguridad, nadie deberá permanecer abordo. Este no es un simulacro.&lt;/p&gt;</description>
+      <description>&lt;p&gt;¡A todos los pasajeros, su atención, por favor! Este es un mensaje del sistema automatizado de emergencia. No es un simulacro. Todos los pasajeros deberán evacuar inmediatamente. ¡Atención, atención! La nave se encuentra en ruta de colisión con un cuerpo espacial no identificado de tipo M. El tiempo estimado de contacto es de treinta minutos. Prepárense para abandonar la nave. Por su seguridad, nadie deberá permanecer abordo. Este no es un simulacro.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Una relación moderna</title>
