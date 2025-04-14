@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amistad on Cuentos y opiniones</title>
+    <link>https://www.saade.me/tags/amistad/</link>
+    <description>Recent content in Amistad on Cuentos y opiniones</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <copyright>asaade</copyright>
+    <lastBuildDate>Sat, 12 Apr 2025 17:25:44 -0600</lastBuildDate>
+    <atom:link href="https://www.saade.me/tags/amistad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solo los amigos traicionan</title>
+      <link>https://www.saade.me/posts/solo_los_amigos/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.saade.me/posts/solo_los_amigos/</guid>
+      <description>Ensayo</description>
+    </item>
+  </channel>
+</rss>
