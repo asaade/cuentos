@@ -2,7 +2,7 @@
 title = "En el hoyo"
 author = ["Antonio Saade"]
 date = 2023-01-20
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["locura", "cárcel", "carta"]
 categories = ["cuentos"]
 draft = false

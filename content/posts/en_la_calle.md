@@ -5,7 +5,7 @@ description = """
   "Tarea: sobre una nota roja"
   """
 date = 2022-10-05
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["tragedia"]
 categories = ["cuentos"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Cerquita del infierno"
 author = ["Antonio Saade"]
 date = 2023-02-12
-lastmod = 2025-04-15T20:31:16-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["cruel", "México"]
 categories = ["cuentos"]
 draft = false

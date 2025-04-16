@@ -2,7 +2,7 @@
 title = "Manual para fracasar (con estilo)"
 author = ["Antonio Saade"]
 date = 2023-06-26T00:00:00-06:00
-lastmod = 2025-04-15T20:53:43-06:00
+lastmod = 2025-04-15T21:50:04-06:00
 categories = ["cuentos"]
 draft = false
 +++
@@ -91,4 +91,4 @@ Manda el primer texto tal como está y acabamos. Al fin, no tenía que ser una o
 
 Y si me preguntas, te lo digo de una vez: **el verdadero crimen aquí es verte seguir escribiendo.**
 
-De verdad, yo ya no puedo. Mira que estoy a punto de borrarte y ponerme a escribir yo. O no, ¿sabes qué? Me voy por un café. Tú aquí te quedas; te dejo encerrado en tu propio cuento, colgado del gancho y tosiendo polvo. A ver si algún lector despistado se compadece de ti y te rescata. Aunque estoy seguro de que nadie va a leerte. Adiós.
+De verdad, yo ya no puedo. Mira que estoy a punto de borrarte y ponerme a escribir yo. O no, ¿sabes qué? Me voy por un café. Tú aquí te quedas; te dejo encerrado en tu propio cuento, colgado del gancho y tosiendo polvo. A ver si algún lector despistado se compadece de ti y te rescata. Aunque estoy seguro de que nadie va a leerte.

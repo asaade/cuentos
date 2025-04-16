@@ -2,7 +2,7 @@
 title = "El día que murieron todas las plantas"
 author = ["Antonio Saade"]
 date = 2023-07-08T00:00:00-06:00
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["segunda-persona", "amor", "triste", "cdmx"]
 categories = ["cuentos"]
 draft = false

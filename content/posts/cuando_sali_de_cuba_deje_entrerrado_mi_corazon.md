@@ -2,7 +2,7 @@
 title = "Cuando salí de Cuba, dejé enterrado mi corazón"
 author = ["Antonio Saade"]
 date = 2023-11-03T00:00:00-06:00
-lastmod = 2025-04-15T20:31:16-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 categories = ["cuentos"]
 draft = false
 +++

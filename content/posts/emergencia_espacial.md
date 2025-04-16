@@ -2,7 +2,7 @@
 title = "Emergencia espacial"
 author = ["Antonio Saade"]
 date = 2023-07-30T00:00:00-06:00
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["ciencia-ficción", "humor"]
 categories = ["cuentos"]
 draft = false

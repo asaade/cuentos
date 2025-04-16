@@ -2,7 +2,7 @@
 title = "Impotencia"
 author = ["Antonio Saade"]
 date = 2021-10-21
-lastmod = 2025-04-15T20:31:18-06:00
+lastmod = 2025-04-15T21:41:04-06:00
 tags = ["tragedia"]
 categories = ["cuentos"]
 draft = false

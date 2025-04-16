@@ -2,7 +2,7 @@
 title = "Enajenado"
 author = ["Antonio Saade"]
 date = 2022-10-31
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["literatura"]
 categories = ["ensayos"]
 draft = false

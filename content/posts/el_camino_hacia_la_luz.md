@@ -2,7 +2,7 @@
 title = "El camino hacia la luz"
 author = ["Antonio Saade"]
 date = 2024-12-03T00:00:00-06:00
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 categories = ["cuentos"]
 draft = false
 +++

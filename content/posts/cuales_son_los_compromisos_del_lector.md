@@ -2,7 +2,7 @@
 title = "¿Cuáles son los compromisos del lector?"
 author = ["Antonio Saade"]
 date = 2023-09-14T00:00:00-06:00
-lastmod = 2025-04-15T20:31:16-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 categories = ["ensayos"]
 draft = false
 +++

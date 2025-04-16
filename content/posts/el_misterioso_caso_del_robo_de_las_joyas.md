@@ -2,7 +2,7 @@
 title = "El misterioso caso del robo de las joyas"
 author = ["Antonio Saade"]
 date = 2023-06-25T00:00:00-06:00
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["detectives", "humor"]
 categories = ["cuentos"]
 draft = false

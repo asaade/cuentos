@@ -2,7 +2,7 @@
 title = "Separación"
 author = ["Antonio Saade"]
 date = 2024-12-28T00:00:00-06:00
-lastmod = 2025-04-15T20:31:21-06:00
+lastmod = 2025-04-15T21:41:05-06:00
 tags = ["draft"]
 categories = ["cuentos"]
 draft = false

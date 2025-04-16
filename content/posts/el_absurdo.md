@@ -2,7 +2,7 @@
 title = "El absurdo"
 author = ["Antonio Saade"]
 date = 2022-12-25
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["literatura", "cine"]
 categories = ["ensayos"]
 draft = false

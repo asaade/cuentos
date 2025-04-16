@@ -2,7 +2,7 @@
 title = "La llamada"
 author = ["Antonio Saade"]
 date = 2025-01-03T00:00:00-06:00
-lastmod = 2025-04-15T20:31:19-06:00
+lastmod = 2025-04-15T21:41:04-06:00
 tags = ["draft"]
 categories = ["cuentosf"]
 draft = false

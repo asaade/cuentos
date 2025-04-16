@@ -2,7 +2,7 @@
 title = "Hasta los muertos votan"
 author = ["Antonio Saade"]
 date = 2024-04-14T00:00:00-06:00
-lastmod = 2025-04-15T20:31:18-06:00
+lastmod = 2025-04-15T21:41:04-06:00
 tags = ["política"]
 categories = ["cuentos"]
 draft = false

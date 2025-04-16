@@ -2,7 +2,7 @@
 title = "La llamada (inicio de novela negra)"
 author = ["Antonio Saade"]
 date = 2025-01-26T00:00:00-06:00
-lastmod = 2025-04-15T20:31:19-06:00
+lastmod = 2025-04-15T21:41:04-06:00
 tags = ["policiaco", "chandler", "novela-negra"]
 categories = ["cuentos"]
 draft = false

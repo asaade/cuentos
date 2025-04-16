@@ -2,7 +2,7 @@
 title = "La Hermandad"
 author = ["Antonio Saade"]
 date = 2025-02-20T00:00:00-06:00
-lastmod = 2025-04-15T20:31:19-06:00
+lastmod = 2025-04-15T21:41:04-06:00
 categories = ["cuentos"]
 draft = false
 +++

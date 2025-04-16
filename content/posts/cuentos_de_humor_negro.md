@@ -5,7 +5,7 @@ description = """
   "Tarea: Cuento corto de humor negro con algunos de estos títulos"
   """
 date = 2021-12-06
-lastmod = 2025-04-15T20:31:16-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["humor-negro"]
 categories = ["cuentos"]
 draft = false

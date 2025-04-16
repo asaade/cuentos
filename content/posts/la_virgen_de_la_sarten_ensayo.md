@@ -2,7 +2,7 @@
 title = "La virgen de la sartén"
 author = ["Antonio Saade"]
 date = 2021-11-17
-lastmod = 2025-04-15T20:31:20-06:00
+lastmod = 2025-04-15T21:41:04-06:00
 tags = ["religión"]
 categories = ["ensayos"]
 draft = false

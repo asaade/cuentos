@@ -2,7 +2,7 @@
 title = "Terencio o de la curiosidad"
 author = ["Antonio Saade"]
 date = 2024-12-22T00:00:00-06:00
-lastmod = 2025-04-15T20:31:22-06:00
+lastmod = 2025-04-15T21:41:05-06:00
 categories = ["ensayos"]
 draft = false
 +++

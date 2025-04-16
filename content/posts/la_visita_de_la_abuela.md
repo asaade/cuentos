@@ -2,7 +2,7 @@
 title = "El viaje de la abuela"
 author = ["Antonio Saade"]
 date = 2024-08-09T00:00:00-06:00
-lastmod = 2025-04-15T20:31:20-06:00
+lastmod = 2025-04-15T21:41:04-06:00
 categories = ["cuentos"]
 draft = false
 +++

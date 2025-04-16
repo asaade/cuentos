@@ -2,7 +2,7 @@
 title = "Una relación moderna"
 author = ["Antonio Saade"]
 date = 2023-07-25T00:00:00-06:00
-lastmod = 2025-04-15T20:31:22-06:00
+lastmod = 2025-04-15T21:41:05-06:00
 tags = ["ciencia-ficción", "humor"]
 categories = ["cuentos"]
 draft = false

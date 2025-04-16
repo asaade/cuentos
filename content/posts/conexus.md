@@ -2,7 +2,7 @@
 title = "Conexus"
 author = ["Antonio Saade"]
 date = 2024-10-31T00:00:00-06:00
-lastmod = 2025-04-15T20:31:16-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["futuro", "amor", "ciencia-ficción"]
 categories = ["cuentos"]
 draft = false

@@ -2,7 +2,7 @@
 title = "La vida en condominio"
 author = ["Antonio Saade"]
 date = 2022-09-16
-lastmod = 2025-04-15T20:31:15-06:00
+lastmod = 2025-04-15T21:41:02-06:00
 tags = ["casa", "psicología"]
 categories = ["cuentos"]
 draft = false

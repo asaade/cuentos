@@ -2,7 +2,7 @@
 title = "No mires dentro"
 author = ["Antonio Saade"]
 date = 2024-08-21T00:00:00-06:00
-lastmod = 2025-04-15T20:31:21-06:00
+lastmod = 2025-04-15T21:41:05-06:00
 categories = ["cuentos"]
 draft = false
 +++

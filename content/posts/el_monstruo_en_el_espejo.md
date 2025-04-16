@@ -2,7 +2,7 @@
 title = "El monstruo en el espejo"
 author = ["Antonio Saade"]
 date = 2023-09-02T00:00:00-06:00
-lastmod = 2025-04-15T20:31:17-06:00
+lastmod = 2025-04-15T21:41:03-06:00
 tags = ["espejo"]
 categories = ["ensayos"]
 draft = true
