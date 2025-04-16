@@ -2,90 +2,93 @@
 title = "Manual para fracasar (con estilo)"
 author = ["Antonio Saade"]
 date = 2023-06-26T00:00:00-06:00
-lastmod = 2025-04-12T17:27:51-06:00
+lastmod = 2025-04-15T20:53:43-06:00
 categories = ["cuentos"]
 draft = false
 +++
 
-<div class="verse">
-
-_Para escribir un mal cuento policiaco solo hacen falta dos cosas: poco talento y la absurda seguridad de que lo tienes._<br />
-<br />
-— Apócrifo de un tallerista confundido<br />
-
-</div>
-
-Por fin llegó el correo. La tarea: escribir de nuevoo un cuento policiaco en segunda persona —sí, ya sé, otra vez— y máximo tres cuartillas. Quizá deberías empezar **in media res**, en plena acción. El profesor jura que eso atrapa al lector. Ya veremos.
-
-> `Aguanta. Sí, ya sé que no es cómodo estar escondido en el clóset, pero al final es tu culpa. Si no hubieras dejado caer la vajilla, los de la casa seguirían soñando y tú no estarías aquí escondiéndote, menso.`
+> _Para escribir un mal cuento policiaco solo hacen falta dos cosas: poco talento y la absurda seguridad de que lo tienes._
 >
-> `¡Y el plan era tan fácil! Pero t'u nada m'as no entiendes nada. Hasta la llave te dio el Gori. Solo tenías que esperar a que durmieran, tomar las cosas buenas y, obvio, ¡NO HACER RUIDO! ¿Qué parte de "no hacer ruido" no entendiste? Pero, claro, tenías que agarrar lo más grandote, lo más brillante, lo más escandaloso. Peor, lo que m'as ruido hace. Genio.`
->
-> `¡Silencio! ¿Esos pasos en la escalera? Cálmate. Respira lento. No te muevas. Anda, sí puedes respirar, solo no hagas ruido.`
-> \#+end_#+begin_quote
+> — Apócrifo de un tallerista confundido
 
-Bien, empieza con acción. Aunque este narrador —o lo que sea— es algo ambiguo. ¿Un cómplice? ¿Su conciencia criminal? ¿Una segunda voz esquizofrénica que da órdenes como un entrenador frustrado? No lo sé, pero funciona. Por ahora.
+Por fin llegó el correo. Léelo de una vez para ver cuál es la tarea para el jueves. Ahí está: escribir un cuento policiaco con narrador en segunda persona —sí, ya sé, otra vez— y en un máximo de tres cuartillas. Perfecto. Se presta para empezar _in media res_, en plena acción. Ya ves que el profesor jura que eso atrapa al lector. Veamos lo que haces con esto.
 
-> `—¿Qué pasó, parejita? ¿Había alguien arriba?`
+> Aguanta.Sí, ya sé que no es cómodo estar escondido en el clóset. Pero tú tienes la culpa: si no hubieras dejado caer la vajilla, los de la casa seguirían soñando en sus camas y tú no estarías aquí escondido como un idiota.
 >
-> `—Nadie. Seguro lo soñaron. La taza que se cayó estaría mal puesta. Vámonos a cenar algo, que ya tengo hambre. O ¿qué, seguimos buscando al ladrón imaginario? Como sea, se ve que estos tienen para dar y regalar. Mejor llévate ese adornito —a la comadre le va a encantar—. Yo ya escogí lo mío.`
->
-> `—¿Ni una checadita?`
->
-> `—¿Para qué? Si hubo alguien, ya se fue. ¿O quieres pasarte la noche llenando formularios? Acuérdate del relajo de la última vez.`
+> ¡El plan era tan fácil! ¡Hasta la llave te dio el Gori! Pero no, nada más no entiendes nada. Solo tenías que esperar a que se durmieran, tomar algunas cosas buenas y ¡NO HACER RUIDO! ¿Qué parte de "no hacer ruido" es tan difícil? Pero claro, tenías que agarrar lo más grandote y brillante. Peor: lo más escandaloso. Genio.
 
-Ahí están: el policía ingenuo y el cínico. Es el binomio clásico. Toda historia policiaca que se respete necesita una pareja así. Pero no nos engañemos: si tu protagonista es un ladrón torpe que carga baratijas encerrado en un clóset y los policías no quieren investigar, el crimen no promete demasiado.
+Bien, empieza con acción. Aunque este narrador —o lo que sea— es algo ambiguo. ¿Un cómplice? ¿Su conciencia criminal? ¿Una segunda voz esquizofrénica que da órdenes como un entrenador frustrado? No lo sé, pero funciona. Por ahora. Ya le dijiste a los lectores qué hace ahí este hombre y de qué se esconde. Comienza a añadir intensidad. Haz que aparezcan unos policías que respondan al llamado de los propietarios de la casa...
 
-> `Bien, parece que los "polis" no tienen ganas de trabajar. Solo quédate quieto un poco más. No vayas a soltar nada. Ni un ruido. Porque si bajas las bolsas y algo se cae... te van a oír. Ni respires.`
+> —¿Qué pasó, parejita? ¿Había alguien arriba?
 >
-> `¿Se te duermen los brazos? Obvio, con tantas cosas encima pareces piñata. Estás cargando media casa. ¡Menso! Así no vas a sobrevivir ni media página más.`
-
-Buen giro. La tensión se eleva y el lector e engancha ahí. Al fin logras algo que casi podría llamarse clímax. Ojalá logres sacar algo bueno de aquí. Los policías todavía no se han ido.
-
-> `—Pssshhh, pareja. Escuché algo por allá.`
+> —Nadie. Seguro lo soñaron. La taza que se cayó estaría mal puesta. Vámonos a cenar algo, que ya tengo hambre. O ¿qué, seguimos buscando al ladrón imaginario? Ya deja de preocuparte, que se ve que estos tienen para dar y regalar. Mejor llévate ese adornito —a la comadre le va a encantar—. Yo ya escogí lo mío.
 >
-> `—Serán ratones. Ya te dije: agarra algo y vámonos.`
-
-Suspenso dosificado, pero todavía no sabemos si se quedan o se van. Pero aún no regreses a corregir. ¡Que no, ni lo pienses! Deja eso como está. Ya habrá tiempo de arrepentirse cuando entregues. Y no me mires así: soy tu narrador. No tu conciencia, no el profesor. **Tu narrador**. Y si te pones torpe, te edito. O te borro. Así de fácil. Créeme, no me tiembla la mano. Tú sigue. El ladrón estaba atrapado...
-
-> `Ya falta poco. Aguanta. Mejor piensa qué le vas a decir al Gori cuando llegues con esas porquerías. No le va a gustar nada. A ver si algo de todo eso vale la pena.`
+> —¿Cómo, ni una checadita?
 >
-> `¿Vas a estornudar? ¡No! No pienses en el polvo. Solo un poquito más. Ya se despiden. Se nota que tienen prisa.`
->
-> `¿Qué haces? ¿¡Cómo te limpias la nariz con el abrigo peludo!? ¡No, así vas a estornudar! ¡No lo hagas! ¡No!`
->
-> `¡Baboso!`
+> —¿Para qué? Si hubo alguien, ya se fue. ¿O quieres pasarte la noche llenando formularios? Acuérdate del relajo de la última vez.
 
-¡Qué barbaridad! Ya está, lo que decía. Esto no sirve para nada. Soso y aburrido. Primer intento: fallido. Un ladrón torpe, dos policías flojos y ningún crimen que valga la pena contar. ¿Qué sigue? Porque esto no tiene remedio, evidentemente. Ni siquiera es policiaco. Veamos si puedes escribir algo oscuro. Con gabardinas y asesinos. Luces mortecinas y misterio. demuéstrame que puedes hacer algo que me sorprenda.
+Ahí están: el policía ingenuo y el cínico. Es el binomio clásico. Toda historia policiaca que se respete necesita una pareja así. Pero no nos engañemos: temo decirte que, como crimen, no promete demasiado. Tú sigue, no te detengas.
 
-> `Era la noche del 27 de junio, sin luna y oscura como boca de lobo. La lluvia caía como una maldición húmeda, y bajo las farolas del centro, el inspector Garay apenas podía ver más allá de su nariz.`
+> Bien, parece que los polis no tienen ganas de trabajar. Solo quédate quieto un poco más y no vayas a soltar nada. Ni un ruido. Ni respires.
 >
-> `El detective cruzaba el Barrio Chino rumbo al Bar Antonio. La Isela lo esperaba con información sobre el Asesino del Talón. Sonaba asustada. Ya eran tres barraganas muertas. Temía ser la siguiente.`
->
-> `Garay alzó las solapas de su eterna gabardina, aún con olor a clóset, y apuró el paso.`
+> ¿Se te duermen los brazos? Obvio, con tantas cosas encima pareces piñata. Estás cargando media casa. ¡Menso! Así no vas a sobrevivir ni media página más.
 
-Pues sí, esto promete. Más estilo, más atmósfera. Y un asesino del Talón. Humor local, sí, pero legítimo. Es una especie de homenaje metaliterario. Creo que tendré que comenzar a reevaluar mi concepto de ti. Solo dame un segundo, quiero releerlo. Ahí está, lo que me temía: **otra vez se te olvidó que debe ser en segunda persona**. ¿Te acuerdas? El taller. El encargo. El punto de partida. De verdad, no entiendo. ¿Por qué sigues escribiendo si no puedes cumplir una instrucción básica?
+Buen giro. La tensión se eleva y el lector se engancha. Al fin logras algo que casi podría llamarse clímax. Ojalá logres sacar algo bueno de aquí. Los policías todavía no se han ido.
+
+> —Pssshhh, pareja. Escuché algo por allá.
+>
+> —Serán ratones. Ya te dije: agarra algo y vámonos.
+
+Claro, porque lo que necesita un policía son más adornos cursis en su comedor. Vas bien. Suspenso dosificado.
+
+No, aún no es tiempo de corregir. ¡Ni lo pienses! Deja eso como está. Ya habrá tiempo para arrepentirte antes de entregar. Y no me mires así: _soy tu narrador_. No tu conciencia. No el profesor. **Tu narrador**. Si te pones necio, simplemente te borro. Es así de fácil. Créeme, no me tiembla la mano. Tú sigue. El ladrón estaba atrapado...
+
+> Ya falta poco. Mejor piensa en lo que le vas a decir al Gori cuando llegues con esas porquerías. No le va a gustar nadita.
+>
+> ¿Qué, vas a estornudar? ¡No! No pienses en el polvo. Solo un poquito más. Ya se despiden. Se nota que tienen prisa.
+>
+> ¿Qué haces? ¿¡Te limpias la nariz con el abrigo peludo!? ¡No, así vas a estornudar! ¡No lo hagas! ¡No!
+>
+> ¡Baboso!
+
+¡Qué barbaridad! Lo que decía, esto no sirve para nada. Soso y aburrido. Evidentemente, esto no tiene remedio. Un ladrón torpe, dos policías flojos y ningún crimen que valga la pena contar. Ni siquiera es policiaco. ¡Lo encontrarán por un estornudo! Primer intento: fallido. ¿Qué sigue?
+
+Ya sé. Se me antoja que escribas una historia un poco más oscura, más de detectives y, claro, algún muerto. Con gabardinas y asesinos seriales. Luces mortecinas y misterio. Demuéstrame que puedes hacer algo que me sorprenda.
+
+> Era la noche del 27 de junio, sin luna y oscura como boca de lobo. La lluvia caía como una maldición húmeda y, bajo la luz tenue de las viejas farolas del centro, el inspector Garay apenas podía ver más allá de su nariz.
+>
+> El detective cruzaba el Barrio Chino rumbo al Bar Antonio. La Isela lo esperaba con información sobre el Asesino del Talón. Sonaba asustada. Ya eran tres barraganas muertas. Temía ser la siguiente.
+>
+> Garay alzó las solapas de su eterna gabardina, aún con olor a encierro, y apuró el paso.
+
+Pues sí, esto promete. Más estilo, más atmósfera. Y un asesino del Talón. Humor local, sí, pero legítimo. Es una especie de homenaje a nuestros escritores urbanos. Creo que tendré que comenzar a reevaluar mi concepto de ti. No sé si quede en tres páginas; habrá que tener cuidado con eso, pero ahí va. Solo dame un segundo, quiero releerlo.
+
+Ahí está, lo que me temía: **otra vez se te olvidó que debe ser en segunda persona**. ¿Te acuerdas? El taller. El encargo. El punto de partida. ¡Las especificaciones de la tarea! De verdad, no entiendo. ¿Por qué sigues escribiendo si no puedes cumplir una instrucción básica?
 
 Segundo intento: descartado.
 
-Vamos a intentarlo de nuevo. A lo seguro. Quizá lo tuyo sea lo clásico. Tal vez con un detective de verdad, uno famoso, no habrá duda del género ni tendrás que hacer desfiguros...
+Vamos a intentarlo de nuevo. Pero ahora a lo seguro. Quizá lo tuyo sea lo clásico. Tal vez si te inspiras en un detective de verdad, uno famoso, no habrá duda del género ni tendrás que hacer desfiguros...
 
-> `En otros tiempos lo habrías previsto todo. Tuvo que ser alguien que conocía tus hábitos. Alguien que sabía cuánto valoras el revólver de tu amigo Watson, ese que guardas en el armario.`
+> En otros tiempos lo habrías previsto todo. Tuvo que ser alguien que conocía tus hábitos. Alguien que sabía cuánto valoras el revólver de tu amigo Watson, ese que guardas en el fondo del armario.
 >
-> `¡Qué ironía! Tú, que siempre te burlaste de los casos obvios, descubres que esta vez fue el más evidente de todos.`
+> ¡Qué ironía! Tú, que siempre te burlaste de los casos obvios, descubres que esta vez fue el más evidente de todos.
 >
-> `Sí, fue él. Y ahora puedes gritarlo: “¡Fue el mayordomo!”. Tres palabras que se repiten en tu cabeza como un mantra, una y otra vez. Si tan solo hubiera alguien que te escuchara.`
+> Sí, fue él. Y ahora puedes gritarlo: "¡Fue el mayordomo!". Tres palabras que se repiten en tu cabeza como un mantra, una y otra vez. Si tan solo hubiera alguien que te escuchara.
 
-Bien. Segunda persona. Detective. Probable cadáver en proceso. Hasta sentimental te pusiste. Oye, no suena nada mal. Pero… ¿Sherlock Holmes? ¿De verdad? ¿Esperas que no te acusen de copiar? Pudiste ser algo más discreto, ¿no crees? Y lo del armario... bueno, ¿qué decir? Claramente tienes un problema con eso. Bien harías en buscar ayuda. De cualquier modo, no quiero ni imaginarme lo que van a decir en el taller sobre tomar personajes "prestados". Que plagiaste la idea de que Holmes fue vencido por su propio cliché.
+Suena bien. Segunda persona. Detective. Probable cadáver en proceso. Y hasta sentimental te pusiste. Oye, no suena nada mal. Aunque... ¿Sherlock Holmes? ¿De verdad? ¿Esperas que no te acusen de copiar? Pudiste ser algo más discreto, ¿no crees? Y lo del armario... bueno, ¿qué puedo decir? Claramente tienes un problema con eso. Bien harías en buscar ayuda. De cualquier modo, no quiero ni imaginarme lo que van a decir en el taller sobre _tomar personajes prestados_.
 
-Tercer intento: al archivo. No digo basura, pero sí, a la “reserva”.
+Tercer intento: al archivo. No digo basura, pero sí, a la "reserva".
 
-Solo tienes uno más para probar que puedes deletrear más de cuatro sílabas. Esto no nos está llevando a ningún lado. Estoy listo. Lanza lo mejor que tengas.
+Solo tienes una oportunidad más para probar que puedes deletrear más de
+cuatro sílabas. Estoy listo. Lanza lo mejor que tengas.
 
-> `Garay, la noche es peligrosa. Pero peor es llegar al taller sin historia. A ver qué se te ocurre ahora.`
+> Garay, la noche es peligrosa. Pero peor es llegar al taller sin
+> historia. A ver qué se te ocurre ahora.
 
-¡Basta! Todo es un chiste contigo. Y yo ya no estoy para juegos. Manda el primer texto tal como está. Al fin, no tenía que ser una obra maestra: solo policiaco, y en segunda persona. Bueno… más o menos. Si no tiene final, ya no mi importa. Dirás que es así el cuento, con un final abierto de estilo moderno, y reza que al profesor le guste el clóset. Es lo más policiaco que vas a producir hoy.
+¡Basta! Todo es un chiste contigo. ¡Haz lo que quieras! Yo no estoy para juegos.
 
-Y si me preguntas, te lo digo de una vez: el verdadero crimen aquí es verte seguir escribiendo.
+Manda el primer texto tal como está y acabamos. Al fin, no tenía que ser una obra maestra: solo policiaco, y en segunda persona. Bueno... más o menos. Y si no tiene final, mejor. Podrás decir que el cuento es así, con un final abierto, al estilo moderno. Solo reza que al profesor le guste lo del clóset. Es lo más policiaco que vas a producir hoy.
 
-Mira que estoy a punto de borrarte y ponerme a escribir yo. O no, ¿sabes qué? Me voy por un café. Tú aquí te quedas, en tu propio cuento, colgado del gancho, tosiendo polvo, esperando que alguien te rescate. A ver si algún lector se compadece de ti. Pero sé que no será así, porque estoy seguro de que nadie va a leerte.
+Y si me preguntas, te lo digo de una vez: **el verdadero crimen aquí es verte seguir escribiendo.**
+
+De verdad, yo ya no puedo. Mira que estoy a punto de borrarte y ponerme a escribir yo. O no, ¿sabes qué? Me voy por un café. Tú aquí te quedas; te dejo encerrado en tu propio cuento, colgado del gancho y tosiendo polvo. A ver si algún lector despistado se compadece de ti y te rescata. Aunque estoy seguro de que nadie va a leerte. Adiós.

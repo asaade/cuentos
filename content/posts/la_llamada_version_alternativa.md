@@ -2,7 +2,7 @@
 title = "La llamada - versión alternativa"
 author = ["Antonio Saade"]
 date = 2025-01-22T00:00:00-06:00
-lastmod = 2025-04-12T17:25:43-06:00
+lastmod = 2025-04-15T20:31:19-06:00
 categories = ["cuentos"]
 draft = false
 +++

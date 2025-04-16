@@ -5,7 +5,7 @@ description = """
   "Tarea: cuento de horror o misterio en segunda persona con lugares comunes."
   """
 date = 2021-09-03
-lastmod = 2025-04-12T17:25:42-06:00
+lastmod = 2025-04-15T20:31:18-06:00
 tags = ["humor", "detectives", "locura", "psicológico"]
 categories = ["cuentos"]
 draft = false

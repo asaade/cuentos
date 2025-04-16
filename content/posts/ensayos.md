@@ -2,7 +2,7 @@
 title = "Agacharse o morir"
 author = ["Antonio Saade"]
 date = 2023-05-30T00:00:00-06:00
-lastmod = 2025-04-12T17:25:42-06:00
+lastmod = 2025-04-15T20:31:17-06:00
 tags = ["literatura"]
 categories = ["ensayos"]
 draft = true
@@ -18,7 +18,7 @@ que heredó nuestra carne, ¡quién no ansiaría<br />
 terminar así! Morir... quedar dormidos...<br />
 <br />
 <br />
-William Shakespeare, _Hamblet_<br />
+William Shakespeare, _Hamlet_<br />
 
 </div>
 

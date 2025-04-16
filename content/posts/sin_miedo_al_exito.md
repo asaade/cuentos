@@ -2,7 +2,7 @@
 title = "Sin miedo al éxito"
 author = ["Antonio Saade"]
 date = 2023-05-22T00:00:00-06:00
-lastmod = 2025-04-12T17:25:44-06:00
+lastmod = 2025-04-15T20:31:21-06:00
 tags = ["literatura"]
 categories = ["cuentos"]
 draft = false
@@ -14,7 +14,7 @@ Como escritor, J.A. dedica largas horas de cada día a preparar sus obras. Ayer 
 
 Enemigo de los teclados y los computadores, escribió sobre el papel con una letra menuda y clara:
 
-> Luego de que la inmortal Aurora apuntara al proscenio con sus rosados dedos, el refulgente Aetón prologó el cortejo para que la aureola del vástago de Hiperión inflamara puntual la esfera celestial, trayendo consigo la gloria inefable del orto...
+> Luego de que la inmortal Aurora apuntara al proscenio con sus rosados dedos, el refulgente Aetón prologó el cortejo para que la ignea aureola del vástago de Hiperión inflamara puntual la esfera celestial, trayendo consigo la gloria inefable del orto...
 
 Aquí se detuvo, satisfecho. Quedaba mucho por delante, pero se tomó un momento para analizar lo que estaba ahí. Era importante dar con un buen inicio para su novela, sobre todo ahora, que no tenía duda alguna de que cientos de ojos críticos la leerían y no se escatimarían comentarios. No era miedo a la opinión ajena, por supuesto. Un gran escritor como él no podría ser víctima de estas nimiedades. Sin embargo, valía la pena revisar bien esto que, a todas luces, era un inicio espléndido. «Esta será mi obra maestra», se dijo.
 
@@ -36,6 +36,6 @@ Nadie dijo que el oficio de escritor fuera un trabajo fácil. Cuando terminó y 
 
 Si bien carecía del arte de la frase original, esta no estaba mal tampoco. Sencilla, clara y con la promesa de una continuación, como se espera de toda obra moderna.
 
-Dio un nuevo trago al coñac que se evaporaba con efusiones aromáticas desde una elegante copa de globo y permaneció unos minutos en silencio, pensando, mientras jugueteaba con la estilográfica. No, no era un buen inicio; porque un buen inicio es la mitad de la obra y un amanecer cualquiera no podría atrapar a ningún lector. ¿Quién podría conmoverse con la salida del sol en una ciudad así —de neblinas industriales y estética de suburbio— y aún quedar con ganas de seguir leyendo? Seguramente nadie. Todavía si hablara de un amanecer en Acapulco, frente al mar y las palmeras. Pero ¿en Metepec? Tomó esta última hoja, la arrugó y lanzó la pelota al cesto, del que rebotó, pues ya no había espacio para más.
+Dio un nuevo trago al coñac que se evaporaba con efusiones aromáticas desde una elegante copa de globo y permaneció unos minutos en silencio, pensando, mientras jugueteaba con la estilográfica. No, no era un buen inicio; porque un buen inicio es la mitad de la obra y un amanecer cualquiera no podría atrapar a ningún lector. ¿Quién podría conmoverse con la salida del sol en una ciudad así —de neblinas industriales y estética de suburbio— y aún quedar con ganas de seguir leyendo? Seguramente nadie. Todavía si hablara de un amanecer en Acapulco, frente al mar y las palmeras. Pero ¿en Metepec? Patético. Tomó esta última hoja, la arrugó y lanzó la pelota al cesto, del que rebotó, pues ya no había espacio para más.
 
 El mundo literario no lo sabría nunca, pero acababa de perder el inicio más épico jamás concebido... por culpa de un amanecer en Metepec. Comenzaría de nuevo y su público tendría que esperar un poco más para conocer la gran _ópera prima_ del famoso literato.

@@ -2,7 +2,7 @@
 title = "43 años después"
 author = ["Antonio Saade"]
 date = 2024-06-18T00:00:00-06:00
-lastmod = 2025-04-12T17:25:42-06:00
+lastmod = 2025-04-15T20:31:18-06:00
 categories = ["cuentos"]
 draft = false
 +++

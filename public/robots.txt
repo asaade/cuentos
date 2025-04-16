@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.saade.me/sitemap.xml
+Sitemap: https://saade.netlify.app/sitemap.xml

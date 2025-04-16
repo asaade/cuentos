@@ -2,7 +2,7 @@
 title = "Tres microcuentos"
 author = ["Antonio Saade"]
 date = 2022-10-15
-lastmod = 2025-04-12T17:25:45-06:00
+lastmod = 2025-04-15T20:31:22-06:00
 tags = ["taller"]
 categories = ["cuentos"]
 draft = false

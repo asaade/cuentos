@@ -2,7 +2,7 @@
 title = "Valsecito"
 author = ["Antonio Saade"]
 date = 2024-07-20T00:00:00-06:00
-lastmod = 2025-04-12T17:25:45-06:00
+lastmod = 2025-04-15T20:31:22-06:00
 categories = ["ensayos"]
 draft = false
 +++

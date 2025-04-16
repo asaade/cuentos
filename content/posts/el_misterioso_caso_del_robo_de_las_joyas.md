@@ -2,7 +2,7 @@
 title = "El misterioso caso del robo de las joyas"
 author = ["Antonio Saade"]
 date = 2023-06-25T00:00:00-06:00
-lastmod = 2025-04-12T17:25:42-06:00
+lastmod = 2025-04-15T20:31:17-06:00
 tags = ["detectives", "humor"]
 categories = ["cuentos"]
 draft = false
@@ -10,9 +10,9 @@ draft = false
 
 Había sido un día caluroso, más que los veranos anteriores, aunque un par de rayas menos que los últimos días, cuando la ciudad parecía un horno. Por entonces, pocos llamaban a la pequeña oficina que mantenía en el centro. Solo cuatro paredes, un escritorio y una silla, pero me daba un espacio para pensar en los casos y recibir algún cliente de los que caían de vez en cuando. Había añadido a la decoración un refrigerador bastante viejo y algo que resultó ser la mejor compra: un ventilador que giraba sin entusiasmo, empujando el aire caliente de un lado a otro, como si también estuviera harto del calor.
 
-El trabajo había estado flojo últimamente o, para usar el eufemismo de moda, me encontraba "entre casos", así que me preparé para dejar de ver el dichoso ventilador que me tenía hipnotizado con sus vueltas para dar por terminado el día y servirme un trago; la temperatura, como el estado de ánimo, siempre es un buen pretexto para remojar la garganta en alcohol, no importa si hace frío o calor.
+El trabajo había estado flojo últimamente o, para usar el eufemismo de moda, me encontraba "entre casos", así que me preparé para dejar de ver el dichoso ventilador que me tenía hipnotizado con sus vueltas para dar por terminado el día y servirme un trago; La temperatura —como el estado de ánimo— siempre es un buen pretexto para remojarse la garganta en alcohol, no importa si hace frío o calor.
 
-Me aflojé la corbata y tomé la botella y un vaso aún con huellas de la última dosis, seguro de que a esta hora nadie llamaría y podría disfrutar de un momento tranquilo. Pero lo que realmente necesitaba era un caso que me ayudara a pagar las cuentas acumuladas. El último no había salido como esperaba y, por más que intentaba rehacerlo en mi mente, no sabía cómo podía haber llegado a un desenlace distinto. En esto estaba, cuando el teléfono comenzó a sonar. En el pequeño cuarto, el ruido del aparato rebotó en las estrechas paredes, amplificado hasta lo intolerable. Ya arreglaría el volumen otro día; en ese momento me concentré en lo inmediato y levanté el auricular apurado, más por terminar con la molestia que por atender a quién hablaba.
+Aflojé la corbata, tomé el vaso aún con huellas de la última dosis y me serví otro trago, seguro de que a esta hora nadie llamaría y podría disfrutar de un momento tranquilo. Pero lo que realmente necesitaba era un caso que me ayudara a pagar las cuentas acumuladas. El último no había salido como esperaba y, por más que intentaba rehacerlo en mi mente, no sabía cómo podía haber llegado a un desenlace distinto. En esto estaba, cuando el teléfono comenzó a sonar. En el pequeño cuarto, el ruido del aparato rebotó en las estrechas paredes, amplificado hasta lo intolerable. Ya arreglaría el volumen otro día; en ese momento me concentré en lo inmediato y levanté el auricular apurado, más por terminar con la molestia que por atender a quién hablaba.
 
 —¿El señor Marlowe?
 

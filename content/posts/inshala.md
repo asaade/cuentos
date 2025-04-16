@@ -5,7 +5,7 @@ description = """
   "Lo que se guardó Sherezada"
   """
 date = 2021-10-25
-lastmod = 2025-04-12T17:25:43-06:00
+lastmod = 2025-04-15T20:31:18-06:00
 tags = ["humor"]
 categories = ["cuentos"]
 draft = false

@@ -2,7 +2,7 @@
 title = "Amor verdadero y otras traiciones"
 author = ["Antonio Saade"]
 date = 2021-10-26
-lastmod = 2025-04-13T12:12:36-06:00
+lastmod = 2025-04-15T20:31:16-06:00
 categories = ["cuentos"]
 draft = false
 +++

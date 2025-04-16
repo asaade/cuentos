@@ -2,7 +2,7 @@
 title = "Autorretrato"
 author = ["Antonio Saade"]
 date = 2024-12-20T00:00:00-06:00
-lastmod = 2025-04-12T17:25:41-06:00
+lastmod = 2025-04-15T20:31:16-06:00
 tags = ["introspección", "cambio", "espejo"]
 categories = ["cuentos"]
 draft = false

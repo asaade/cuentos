@@ -2,7 +2,7 @@
 title = "Una carta para el Chapo"
 author = ["Antonio Saade"]
 date = 2023-08-13T00:00:00-06:00
-lastmod = 2025-04-12T17:25:45-06:00
+lastmod = 2025-04-15T20:31:22-06:00
 tags = ["ficción", "literatura"]
 categories = ["cuentos"]
 draft = true

@@ -2,7 +2,7 @@
 title = "Una sonrisa para el desayuno"
 author = ["Antonio Saade"]
 date = 2024-03-15T00:00:00-06:00
-lastmod = 2025-04-12T17:25:44-06:00
+lastmod = 2025-04-15T20:31:20-06:00
 categories = ["cuentos"]
 draft = false
 +++

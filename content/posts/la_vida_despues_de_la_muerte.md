@@ -2,7 +2,7 @@
 title = "¿Para qué esperar a la vida después de la vida?"
 author = ["Antonio Saade"]
 date = 2024-01-29T00:00:00-06:00
-lastmod = 2025-04-13T19:48:13-06:00
+lastmod = 2025-04-15T20:31:20-06:00
 categories = ["ensayos"]
 draft = true
 +++

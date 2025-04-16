@@ -2,7 +2,7 @@
 title = "La vida después de los 30"
 author = ["Antonio Saade"]
 date = 2024-02-02T00:00:00-06:00
-lastmod = 2025-04-12T17:25:43-06:00
+lastmod = 2025-04-15T20:31:20-06:00
 categories = ["cuentos"]
 draft = false
 +++
@@ -19,9 +19,9 @@ Quince minutos después, el arcángel Azrael llegaba a la puerta del tercer ciel
 
 —Los de Sistemas hicieron de nuevo de las suyas —respondió el portero.
 
-Azrael cerró los ojos y exhaló con fuerza antes de hablar. No solo seguían ocurriendo fallas que el "Departamento de Trascendencia Sistémica" había prometido resolver siglos atrás, sino que ahora llegaban en el peor momento. Justo estos días el Director General tenía a todo el mundo trabajando horas extras en el nuevo plan de salvación universal, y esta era la última distracción que necesitaban.
+Azrael cerró los ojos y exhaló con fuerza antes de hablar. Las fallas que el Departamento de Trascendencia Sistémica prometió resolver siglos atrás seguían apareciendo —y justo ahora, cuando el CEO tenía a todos trabajando horas extras con el nuevo plan de salvación universal.
 
-El plan era novedoso. Como ni diluvios ni amenazas de infiernos habían funcionado, el CEO había decidido enviar a su propio hijo para arreglar las cosas. Según la Oficina de Planificación Celestial, los siguientes tres años serían críticos y, con tantas variables involucradas, la cosa no pintaba nada bien.
+Ciertamente, el plan era novedoso. Como ni diluvios ni amenazas de infiernos habían funcionado, el CEO había decidido enviar a su propio hijo para arreglar las cosas. Según la Oficina de Planificación Celestial, los siguientes tres años serían críticos y, con tantas variables involucradas, la cosa no pintaba fácil. Azrael lo sabía bien: todo plan suficientemente ambicioso tiene que irse corrigiendo durante todo el camino y, al final, nadie sabe en qué terminará.
 
 Y ahora esto.
 
@@ -29,13 +29,13 @@ En un rincón del salón esperaba el espíritu de un indio—de la India, claro.
 
 Azrael pidió una explicación.
 
-—Después de una revisión minuciosa —informó el asistente de contabilidad—, podemos concluir que a este señor le quedaban tres años más en la Tierra. Pero se comió un plato de cerdo en mal estado, enfermó gravemente. El representante regional no recibió el fax a tiempo y lo recogió antes de lo debido, posiblemente para evitar otro viaje y ahorrarle los viáticos a la compañía.
+—Después de una revisión minuciosa —informó el asistente de contabilidad—, podemos concluir que a este señor le quedaban tres años más en la Tierra. Pero se comió un plato de cerdo en mal estado y enfermó gravemente. El representante regional no recibió el memo a tiempo y lo recogió antes de lo debido, posiblemente para evitar otro viaje y ahorrarle los viáticos a la compañía.
 
 Azrael entrecerró los ojos.
 
 —¿Le quedaban tres años?
 
-Luego, con un gesto brusco, ordenó:
+Permaneció callado varios segundos. Luego, con un gesto brusco, ordenó:
 
 —A ver, tú, espabílate y tráeme el expediente del Proyecto Alfa-Omega que está encima de mi escritorio.
 
@@ -51,17 +51,17 @@ Pues sí, loco o no, la lógica era clara, aunque los ángeles no podían ver qu
 
 —Veamos. Son tres años que faltan en un lado y tres que sobran en el otro —continuó el arcángel—. El balance entre el debe y el haber se equilibra. Y encima, tenemos aquí a un hombre a todas luces espiritual, salvo por su afición malsana a los embutidos.
 
-El silencio en la sala se hizo más denso. ¿A dónde iba el jefe con todo esto?
+Algunos incluso sospechaban que el error había sido intencional desde el inicio. Sin embargo, el silencio en la sala se hizo más denso. ¿A dónde iba el jefe con todo esto?
 
 —Sé que algunos estarán preocupados por este pequeño desvío del plan original —continuó Azrael—, pero vamos, ¿quién no lo veía venir? Ya ven que hay algunos críticos que piensan que hubo favoritismo en la selección del elegido. Para ellos, es punto menos que increíble que alguien que había llevado una vida sencilla como carpintero y no tenía experiencia previa en proyectos universales pudiera solucionar todos los problemas del mundo. Yo prefiero pensar que el plan es mucho más complejo de lo que alcanzamos a imaginar, pero ¡ahora resulta que el cuerpo asignado caduca justo cuando empieza el trabajo de verdad! Seamos positivos. Veamos esto, no como un obstáculo, amigos, sino como una oportunidad. Hay que tomar al toro por los cuernos.
 
-Una conmoción recorrió la sala. Coincidieran o no con el razonamiento del jefe, escucharlo en voz alta los llenó de terror. ¿Qué pasaría si alguien los oyera? Esto se acercaba peligrosamente a una insurrección —de esas que terminan con lanzamientos desde la muralla celestial. Tendrían que rodar cabezas. Y no de manera metafórica.
+Una conmoción recorrió la sala. Coincidieran o no con el razonamiento del jefe, escucharlo en voz alta los llenó de terror. ¿Qué pasaría si alguien los oyera? Esto se acercaba peligrosamente a una insurrección —de esas que terminan con lanzamientos desde la muralla celestial. Tendrían que rodar cabezas.
 
 —Bueno, bueno, ya es suficiente. Escuchen, que necesito que pongan toda su atención. Algunos de ustedes llevan suficiente tiempo aquí como para recordar cómo terminó el equipo responsable del último diluvio, así que me parece que no hay necesidad de insistir en las consecuencias de un fracaso, ¿verdad?
 
 Aquí, casi todos asintieron vehementemente.
 
-Lo que siguió fue un gran ejemplo de que una burocracia bien incentivada con la amenaza de quinientos años en las calderas puede trabajar con eficiencia. Bajo la eficaz dirección del arcángel, volaban los papeles, sellos y firmas con la mayor diligencia. Esta vez nadie dijo una palabra y todo estuvo listo en un santiamén, a pesar de la naturaleza parlanchina y siempre rebelde de los serafines.
+Lo que siguió fue un gran ejemplo de que una burocracia bien incentivada puede trabajar con eficiencia. Bajo la eficaz dirección del arcángel, volaban los papeles, sellos y firmas con la mayor diligencia. Esta vez nadie dijo una palabra y todo estuvo listo en un santiamén, a pesar de la naturaleza parlanchina y siempre rebelde de los serafines.
 
 En ese instante, abajo en la Tierra, el joven carpintero sufrió un tropiezo justo en el momento de emerger de las aguas, mientras su primo, a quien apodaban el “Bautista”, predicaba distraído.
 
@@ -73,4 +73,4 @@ La gente estaba extasiada, pues el carpintero se veía distinto después de su b
 
 En el cielo, Azrael observó el nuevo balance de almas y asintió con satisfacción.
 
-—Al final, todo encaja —murmuró, mientras devolvía la carpeta al archivo.
+—Al final, todo encaja —murmuró, mientras devolvía la carpeta al archivo, donde nadie la volvería a ver en por lo menos mil años.

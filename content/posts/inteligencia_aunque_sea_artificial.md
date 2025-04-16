@@ -2,7 +2,7 @@
 title = "La máquina cero-defectos"
 author = ["Antonio Saade"]
 date = 2023-07-15T00:00:00-06:00
-lastmod = 2025-04-13T13:35:29-06:00
+lastmod = 2025-04-15T20:31:18-06:00
 tags = ["ficción", "literatura"]
 categories = ["cuentos"]
 draft = false

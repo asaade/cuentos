@@ -2,7 +2,7 @@
 title = "Prompt para programa personal"
 author = ["asaade"]
 date = 2025-03-27T00:00:00-06:00
-lastmod = 2025-04-12T17:25:44-06:00
+lastmod = 2025-04-15T20:31:21-06:00
 tags = ["draft"]
 categories = ["cuentos"]
 draft = true

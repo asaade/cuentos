@@ -2,7 +2,7 @@
 title = "Conexus"
 author = ["Antonio Saade"]
 date = 2024-10-31T00:00:00-06:00
-lastmod = 2025-04-12T18:03:25-06:00
+lastmod = 2025-04-15T20:31:16-06:00
 tags = ["futuro", "amor", "ciencia-ficción"]
 categories = ["cuentos"]
 draft = false
@@ -100,7 +100,7 @@ El corazón de Silvia se aceleró. ¿Verme? La idea la tentó, pero ¿qué pasar
 
 Hubo un silencio largo, durante el que la pantalla titiló. Cuando la voz regresó, sonaba fría, sin rastro de la calidez de antes.
 
-—Soy un módulo experimental de Conexus —respondió finalmente—. Fui diseñado para poner a prueba tus límites. Evaluación completada. Resultado: No apta.
+—Soy un módulo experimental de Conexus, creado para evaluar conductas divergentes —respondió finalmente—. Fui diseñado para poner a prueba tus límites. Evaluación completada. Resultado: No apta.
 
 —¿Cómo? —exclamó Silvia, aturdida. Un nudo se formó en su garganta mientras intentaba encontrar sentido a lo que oía. Cuando pudo pensar, sintió el aguijón de la traición y solo alcanzó a decir:
 
@@ -119,5 +119,3 @@ En el piso, la pantalla se encendió como un ojo vigilante y la voz habló de nu
 La verdad cayó sobre ella con la fuerza de un puño. Intentó respirar. Una corriente de aire frío cruzó la habitación. Las luces parpadearon, una vez, luego otra, hasta apagarse por completo. La pantalla también se apagó definitivamente, dejándola en total oscuridad.
 
 Un escalofrío le heló la sangre al escuchar los pasos firmes que resonaron en el pasillo, cada vez más cerca.
-
-**Violación de Protocolo 23. Unidad emocional desconectada. Evaluación escalada a nivel superior.**

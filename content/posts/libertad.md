@@ -2,7 +2,7 @@
 title = "Libertad"
 author = ["Antonio Saade"]
 date = 2022-05-25T00:00:00-05:00
-lastmod = 2025-04-12T17:25:44-06:00
+lastmod = 2025-04-15T20:31:20-06:00
 tags = ["llama-azul", "literatura", "ficción"]
 categories = ["cuentos"]
 draft = false

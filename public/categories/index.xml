@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Cuentos y opiniones</title>
-    <link>https://www.saade.me/categories/</link>
+    <link>https://saade.netlify.app/categories/</link>
     <description>Recent content in Categories on Cuentos y opiniones</description>
     <generator>Hugo -- 0.146.3</generator>
     <language>en</language>
     <copyright>asaade</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 13:58:34 -0600</lastBuildDate>
-    <atom:link href="https://www.saade.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2025 20:53:43 -0600</lastBuildDate>
+    <atom:link href="https://saade.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cuentos</title>
-      <link>https://www.saade.me/categories/cuentos/</link>
+      <link>https://saade.netlify.app/categories/cuentos/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 -0600</pubDate>
-      <guid>https://www.saade.me/categories/cuentos/</guid>
+      <guid>https://saade.netlify.app/categories/cuentos/</guid>
       <description></description>
     </item>
     <item>
       <title>Cuentosf</title>
-      <link>https://www.saade.me/categories/cuentosf/</link>
+      <link>https://saade.netlify.app/categories/cuentosf/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 -0600</pubDate>
-      <guid>https://www.saade.me/categories/cuentosf/</guid>
+      <guid>https://saade.netlify.app/categories/cuentosf/</guid>
       <description></description>
     </item>
     <item>
       <title>Ensayos</title>
-      <link>https://www.saade.me/categories/ensayos/</link>
+      <link>https://saade.netlify.app/categories/ensayos/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 -0600</pubDate>
-      <guid>https://www.saade.me/categories/ensayos/</guid>
+      <guid>https://saade.netlify.app/categories/ensayos/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 title = "Desde el fondo del abismo"
 author = ["Antonio Saade"]
 date = 2023-08-13T00:00:00-06:00
-lastmod = 2025-04-12T17:25:41-06:00
+lastmod = 2025-04-15T20:31:16-06:00
 tags = ["humor", "horror"]
 categories = ["cuentos"]
 draft = true

@@ -2,7 +2,7 @@
 title = "Fragmentos de mí"
 author = ["Antonio Saade"]
 date = 2021-10-21
-lastmod = 2025-04-13T13:46:49-06:00
+lastmod = 2025-04-15T20:31:18-06:00
 tags = ["amor", "psicología"]
 categories = ["cuentos"]
 draft = false
@@ -12,7 +12,7 @@ Ayer, mientras paseábamos por la calle, ella me miró con esos ojos llenos de r
 
 La historia comenzó el verano pasado, cuando conocí a mi _Yo Romántico_. Era simpático, de esos que saben iluminar una habitación con una sonrisa. Un romántico empedernido, sí, pero no en el sentido cursi, sino en el de quien vive para los gestos pequeños: una flor inesperada, una caricia en el momento preciso. Su cortesía tenía un peso tan natural que resultaba imposible ignorarla y fue precisamente esto lo que molestó a mi _Yo Violento_, que pronto se sintió bestialmente celoso de él y de lo feliz que se veía al pasear del brazo con ella. No toleraba las miradas enamoradas que ella le prodigaba. Pronto las hostilidades entre ambos se hicieron evidentes y, tan solo verse, explotaban e intercambiaban frases y gestos llenos de agresividad. Poco después, el _Yo Romántico_ desapareció.
 
-Fue en una de esas tardes tibias de otoño, cuando sentí el vacío que dejó el _Yo Romántico_. Hasta entonces pensaba que se había refugiado en algún rincón, quizá intentando hacer un paréntesis para evitar que las cosas escalaran en violencia, pero ese día supe que mi otro Yo se había ido para siempre. Nadie lo volvió a ver; no hubo despedidas ni explicaciones, solo una ausencia que dejó un eco extraño entre nosotros. En el silencio que quedó tras su partida, el _Yo Violento_ parecía más grande y amenazador que nunca. Sabíamos lo que había pasado, pero nadie se atrevía a hablar de ello, tal era el miedo que nos inspiraba ese ego salvaje.
+Fue en una de esas tardes tibias de otoño, cuando sentí el vacío que dejó el _Yo Romántico_. Al principio creí que solo se había escondido. Que volvería cuando el conflicto pasara. Pero no. Simplemente ya no estaba. Nadie lo volvió a ver; no hubo despedidas ni explicaciones, solo una ausencia que dejó un eco extraño entre nosotros. En el silencio que quedó tras su partida, el _Yo Violento_ parecía más grande y amenazador que nunca. Sabíamos lo que había pasado, pero nadie se atrevía a hablar de ello, tal era el miedo que nos inspiraba ese ego salvaje.
 
 Todo esto sucedió poco después de que mi madre cayera gravemente enferma. Aunque su mal fue súbito, sus consecuencias se han prolongado por mucho tiempo y aún están con nosotros. Al principio, me sentía fuerte, capaz de sobrellevarlo todo, pero con cada día que pasaba, algo en mí comenzaba a ceder. La preocupación constante, las noches en vela junto a su cama y el miedo que se aferraba a mi pecho comenzaron a abrir pequeñas fisuras en mi mente, imperceptibles al principio, pero que poco a poco fueron creciendo hasta que mi vida entera empezó a desmoronarse.
 
@@ -30,4 +30,4 @@ Con el tiempo he recuperado algo de sensatez y una dignidad que creí perdida, g
 
 Juntos, estamos tratando de reconstruirnos, pero ¿cómo le explico a ella —a la mujer que camina a mi lado— que el _Yo Romántico_ ya no está? Que se marchó para siempre, llevándose con él esa chispa que alegraba sus días. Que dejó un hueco que ninguno de los que quedamos sabe llenar. A veces, cuando me mira, sus ojos se iluminan brevemente, como si aún esperaran hallar en mí algún vestigio del que fui. Y entonces yo me desvivo intentándolo: intento imitarlo, copiar sus gestos, sus palabras, pero solo consigo ser el eco de alguien que ya no existe.
 
-Ya no soy el que ella conoció, ni el que mi madre recuerda. Solo soy lo que queda de mí: un puñado de fragmentos que intenta no caer. Pero aún conservo algo: la esperanza. Tal vez, entre estos trozos rotos, ella encuentre algo —no mucho, pero suficiente— que algún día pueda volver a amar.
+Ya no soy el que ella conoció, ni el que mi madre recuerda. Solo soy un puñado de fragmentos que intenta no caer. Pero aún conservo algo: la esperanza. Tal vez, entre estos trozos rotos, ella encuentre algo —no mucho, pero suficiente— que algún día pueda volver a amar.

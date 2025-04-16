@@ -5,7 +5,7 @@ description = """
   Tarea: Ensayo sobre el tema "la vida después de la muerte"
   """
 date = 2024-01-20T00:00:00-06:00
-lastmod = 2025-04-12T17:25:44-06:00
+lastmod = 2025-04-15T20:31:21-06:00
 categories = ["ensayos"]
 draft = false
 +++

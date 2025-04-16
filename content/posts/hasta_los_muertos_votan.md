@@ -2,7 +2,7 @@
 title = "Hasta los muertos votan"
 author = ["Antonio Saade"]
 date = 2024-04-14T00:00:00-06:00
-lastmod = 2025-04-12T17:25:42-06:00
+lastmod = 2025-04-15T20:31:18-06:00
 tags = ["política"]
 categories = ["cuentos"]
 draft = false
@@ -12,7 +12,7 @@ Cuando vimos llegar la carroza fúnebre al patio del Instituto, nadie lo podía 
 
 —¡Ahora sí, lo que faltaba! ¡Hasta los muertos vinieron a votar!
 
-Una carcajada generalizada llenó los rincones del salón principal. Esto ayudó a romper un poco con la tensión del día, que a esa hora ya alcanzaba su clímax. Estábamos agotados tras una jornada larguísima recibiendo cajas —perdón, urnas, que suena más elegante, aunque también más fúnebre— repletas de papeletas, que junto con “casillas” y “boletas” forman un trío de diminutivos que no ayudan mucho a tomarse en serio nada de esto.
+Una carcajada generalizada llenó los rincones del salón principal. Esto ayudó a romper un poco con la tensión del día, que a esa hora ya alcanzaba su clímax. Estábamos agotados tras una jornada larguísima recibiendo cajas —perdón, urnas, que suena elegante y, claro, fúnebre— repletas de papeletas, que junto con “casillas” y “boletas” forman un trío de diminutivos que no ayudan mucho a tomarse en serio nada de esto.
 
 La escena que se nos presentaba era tan absurda como simbólica: una carroza mortuoria entrando al recinto de la democracia. Algunos reporteros casi se atragantaron de la emoción. “¡Qué postal!”, dijeron, y encendieron luces extra para que se viera mejor en la transmisión.
 
@@ -62,9 +62,9 @@ Casi por reflejo, me hundí entre las cortinas, mientras un temblor me recorría
 >
 > ¡Ven con nosotros! ¡Danos tu luz en este momento de oscuridad!
 >
-> ¡Ayuda a tus hijos a continuar con la revolución! ¡Permite que siga!
+> ¡Ayuda a tus hijos a continuar con la revolución! ¡Permite que siga la transformación!
 >
-> ¡Lázaro, levántate y anda una vez más entre nosotros!
+> ¡Líder eterno, levántate y anda una vez más entre nosotros!
 
 Un silencio sepulcral llenó el salón durante varios segundos, que parecieron eternos. Uno. Quince. Treinta. De pronto, el costeño murmuró unas palabras incomprensibles hacia la caja.
 

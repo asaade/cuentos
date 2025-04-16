@@ -2,7 +2,7 @@
 title = "La verdad viaja en camión"
 author = ["Antonio Saade"]
 date = 2023-02-26
-lastmod = 2025-04-12T17:25:43-06:00
+lastmod = 2025-04-15T20:31:20-06:00
 categories = ["cuentos"]
 draft = false
 +++
@@ -40,7 +40,7 @@ Ramírez sonrió al recordar a Marianita.
 
 Pues sí, al licenciado le gustaba ufanarse de sus habilidades y, a veces, exageraba un poco su papel como protagonista. Pero la historia prometía.
 
-—Cierto, en el incidente hay otros involucrados; en particular, un par de desafortunados caballeros caídos en el tiroteo. ¿Cómo que cuál tiroteo? ¿No sabe leer? Pues si leyera bien los diarios, sabría Pues si leyera bien los diarios, sabría que en su última actuación callejera, además del ojo morado, hubo un tiroteo previo. ¿Ah, no lee usted los periódicos? Hace bien: solo dan malas noticias y uno termina de mal humor y menos enterado de lo que comenzó. Pero bueno, si se tomara la molestia de leerlos, sabría que este señor caminaba por la calle cuando se le ocurrió acercarse al lugar donde ocurría un asalto o algo así. Pasaba por casualidad —o eso me dijo—, escuchó las detonaciones y se detuvo por si alguien necesitaba auxilio. ¡Ja, un buen samaritano! Eso ni él lo cree.
+—Cierto, en el incidente hay otros involucrados; en particular, un par de desafortunados caballeros caídos en el tiroteo. ¿Cómo que cuál tiroteo? ¿No sabe leer? Pues si leyera bien los diarios, sabría que en su última actuación callejera, además del ojo morado, hubo un tiroteo previo. ¿Ah, no lee usted los periódicos? Hace bien: solo dan malas noticias y uno termina de mal humor y menos enterado de lo que comenzó. Pero bueno, si se tomara la molestia de leerlos, sabría que este señor caminaba por la calle cuando se le ocurrió acercarse al lugar donde ocurría un asalto o algo así. Pasaba por casualidad —o eso me dijo—, escuchó las detonaciones y se detuvo por si alguien necesitaba auxilio. ¡Ja, un buen samaritano! Eso ni él lo cree.
 
 Hizo una breve pausa y bajó la voz, desde el nivel de trueno que tenía normalmente, al de una poco discreta aplanadora, que era su volumen para las confidencias.
 

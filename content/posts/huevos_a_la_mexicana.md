@@ -5,7 +5,7 @@ description = """
   "Tarea: escribir una receta de huevos a la mexicana"
   """
 date = 2021-08-26
-lastmod = 2025-04-12T17:25:43-06:00
+lastmod = 2025-04-15T20:31:18-06:00
 tags = ["humor", "casa"]
 categories = ["cuentos"]
 draft = false
